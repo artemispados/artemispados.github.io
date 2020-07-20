@@ -1,4 +1,4 @@
-<img src="/images/headshot.jpg" width="250" height="250">
+<p>XXXXXX<img src="/images/headshot.jpg" width="250" height="250" align="left"><p>
 
 ## Personal
 ## Interests
