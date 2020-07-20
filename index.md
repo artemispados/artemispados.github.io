@@ -1,5 +1,4 @@
 ![ME](/images/headshot.jpg)
-Format: ![Alt Text](url)
 
 ## Personal
 ## Interests
