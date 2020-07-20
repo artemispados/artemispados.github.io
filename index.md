@@ -1,4 +1,4 @@
-![ME](/images/headshot.jpg)
+<img src"/images/headshot.jpg" width="250" height="250">
 
 ## Personal
 ## Interests
