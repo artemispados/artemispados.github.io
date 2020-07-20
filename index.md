@@ -1,4 +1,6 @@
-![X](https://artemispados.github.com/images/headshot.png)
+![ME](/images/headshot.jpg)
+Format: ![Alt Text](url)
+
 ## Personal
 ## Interests
 Include here link to Statement of Purpose
