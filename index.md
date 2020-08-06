@@ -11,3 +11,4 @@ Languages, Piano, Theatre, GMP
 ## Community Engagement
 ## Writing Samples
 
+https://github.com/artemispados/artemispados.github.io/blob/master/papers/ArtemisPados_StanfordOHS_ADialogueOnDiscovery.pdf
