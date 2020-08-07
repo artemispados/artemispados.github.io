@@ -2,9 +2,9 @@
   <br clear="left"/>
 
 ## Contact Me
-Email: artemispados@gmail.com\
+Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
 Phone: (716) 930-9882\
-[Artemis Pados](mailto:artemispados@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 ## Interests
 Include here link to Statement of Purpose
 ## Tennis
