@@ -13,7 +13,7 @@ Link to Statement of Purpose<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe that my engagement with competitive sports helped me develop strong communication, time management and leadership skills as well as the ability to strategize, identify the details that make the difference in performance, set goals and execute while at the same time listen to constructive criticism and adjust accordingly. I hope I will be able to attend a highest quality academic program to study mathematics and be able to lead the university tennis team to championships.
 
 ## Latest Education
-2018-Present (Grade 9-Present)\ **Stanford Online Highschool**, *Stanford, CA*
+2018-Present (Grade 9-Present)<br/>**Stanford Online Highschool**, *Stanford, CA*
 * Based out of Stanford University
 * Ranked #1 College Preparatory Private Highschool in America 2020
 * Ranked #4 Best High School for STEM in America in 2020
@@ -23,9 +23,9 @@ Link to Statement of Purpose<br/>
 ## Selected Highschool Courses
 ###### Freshman Year (Fall 2018-Spring 2019)
 * **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
-** Grade A
+  * Grade A
 * **Honors Physics**, *Stanford Online Highschool*
-** Grade A
+  * Grade A
 
 
 
