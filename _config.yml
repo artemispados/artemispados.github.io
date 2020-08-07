@@ -2,14 +2,14 @@ theme: jekyll-theme-slate
 # Site wide configuration
 
 title: Artemis Pados
-description: insert description
+description: About me
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Artemis Pados
-  #avatar: bio-photo.jpg
+  avatar: headshot_cropped.jpg
   bio: "bio"
   email: artemispados@gmail.com
   # Do not include the @ symbol in your Twitter username
