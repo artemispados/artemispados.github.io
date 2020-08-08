@@ -1,4 +1,4 @@
-<p> <img src="/images/headshot.jpg" width="250" height="250" align="left"></p>
+<p> <img src="/images/headshot.jpg" width="250" height="250" align="left" style="border: 1px solid black"></p>
   <br clear="left"/>
 <br/>
 Link to Full CV
