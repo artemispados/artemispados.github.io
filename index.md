@@ -22,19 +22,19 @@ Link to Statement of Purpose<br/>
 [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
 
 ## Selected Highschool Courses
-###### Freshman Year (Fall 2018-Spring 2019)
+##### Freshman Year (Fall 2018-Spring 2019)
 * **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
   * Grade A
 * **Honors Physics**, *Stanford Online Highschool*
-  * Grade A\n\n
+  * Grade A
 
-###### Sophomore Year (Fall 2019-Spring 2020)
+##### Sophomore Year (Fall 2019-Spring 2020)
 * **AP Calculus BC**, *Stanford Online Highschool*
   * Grade A and 5/5 on AP Exam
 * **History and Philosophy of Science**, *Stanford Online Highschool*
   * Grade A
   
-###### Junior Year (Fall 2020-Spring 2021)
+##### Junior Year (Fall 2020-Spring 2021)
 * **AP Physics C Mechanics (Fall) and Electricity and Magnetism (Spring)**, *Stanford Online Highschool*
   * Course in progress
 * **Programming in C++**, *Stanford Online Highschool*
@@ -42,7 +42,7 @@ Link to Statement of Purpose<br/>
 * **University course Discrete Mathematics (Fall)**, *Stanford Online Highschool*
   * Course in progress
 
-###### Senior Year (Fall 2021-Spring 2022)
+##### Senior Year (Fall 2021-Spring 2022)
 * **AP Computer Science**, *Stanford Online Highschool*
   * Course to come
 * **AP Unites States History**, *Stanford Online Highschool*
@@ -53,6 +53,13 @@ Link to Statement of Purpose<br/>
   * Course to come
 * **AP Language and Composition**, *Stanford Online Highschool*
   * Course to come
+  
+## Academic Enrichment
+Summer 2020<br/>**Harvard University Pre-College Summer School**, *Cambridge, MA*
+* Introduction to Programming, Computational Science, and Data Visualization course
+* Received perfect score and outstanding evaluation by teacher
+* Class consisted of coding and data visualization using Python language
+
 
 
 
