@@ -1,6 +1,5 @@
 <p> <img src="/images/headshot.jpg" width="250" height="250" align="left "> <img src="/images/me.1.jpg" width="250" height="250" align="right "></p>
   <br clear="left"/>
-<br/>
 Link to Full CV
 
 ## Contact Me
