@@ -26,13 +26,13 @@ Link to Statement of Purpose<br/>
 * **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
   * Grade A
 * **Honors Physics**, *Stanford Online Highschool*
-  * Grade A <!
+  * Grade A\n\n
 
 ###### Sophomore Year (Fall 2019-Spring 2020)
 * **AP Calculus BC**, *Stanford Online Highschool*
   * Grade A and 5/5 on AP Exam
 * **History and Philosophy of Science**, *Stanford Online Highschool*
-  * Grade A <!
+  * Grade A
   
 ###### Junior Year (Fall 2020-Spring 2021)
 * **AP Physics C Mechanics (Fall) and Electricity and Magnetism (Spring)**, *Stanford Online Highschool*
@@ -40,7 +40,7 @@ Link to Statement of Purpose<br/>
 * **Programming in C++**, *Stanford Online Highschool*
   * Course in progress
 * **University course Discrete Mathematics (Fall)**, *Stanford Online Highschool*
-  * Course in progress <!
+  * Course in progress
 
 ###### Senior Year (Fall 2021-Spring 2022)
 * **AP Computer Science**, *Stanford Online Highschool*
@@ -52,7 +52,7 @@ Link to Statement of Purpose<br/>
 * **University course Number Theory (Spring)**, *Stanford Online Highschool*
   * Course to come
 * **AP Language and Composition**, *Stanford Online Highschool*
-  * Course to come <!
+  * Course to come
 
 
 
