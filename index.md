@@ -16,7 +16,7 @@ Phone: [(716) 930-9882](tel:7169309882)
 ## Education
 
 #### Academic
-**Stanford Online Highschool**, *Stanford, CA*2018-Present <br/>(Grade 9-Present)
+**Stanford Online Highschool**, *Stanford, CA*<br/>2018-Present (Grade 9-Present)
 * Based out of Stanford University
 * Ranked #1 College Preparatory Private Highschool in America 2020
 * Ranked #4 Best High School for STEM in America in 2020
@@ -79,7 +79,7 @@ Phone: [(716) 930-9882](tel:7169309882)
 * Received perfect score in all years of study
 * GMP 1 (2015-2016):
   *  Advanced Algebra, Geometry, Probability
- * GMP 2 (2016-2017): 
+* GMP 2 (2016-2017): 
   * Set theory, Basic Number theory, Groups, Relational Systems, Logic, and Proofs
 * Received University credit for two college-level mathematics courses:
   * **GSE 120 LEC Logic** 
