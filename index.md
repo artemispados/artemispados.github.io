@@ -1,7 +1,9 @@
 <p> <table><tr><td><img src="/images/headshot.jpg" width="250" height="250" align="left "></table></tr></td></p>
   <br clear="left"/>
 <br/>
+
 Link to Full CV
+
 #### _Table of Contents_
 - [Contact Me](#heading)
 - [Overview, Interests, and Objectives](#heading-1)
