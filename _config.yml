@@ -1,27 +1,4 @@
 theme: jekyll-theme-slate
-# Site wide configuration
-
 title: Artemis Pados
-
-# Short description of your site
-# description:  
-
-# Your name to show in the footer
 author: Artemis Pados
-
-
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Artemis Pados
-  #avatar: headshot.jpg
-  #bio: "bio"
-  email: artemispados@gmail.com
-  # Do not include the @ symbol in your Twitter username
-  #twitter: laderast
-  #linkedin: #username
-  github: github
-  
-
