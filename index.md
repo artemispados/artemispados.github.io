@@ -2,6 +2,7 @@
   <br clear="left"/>
 <br/>
 Link to Full CV
+
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
 Phone: [(716) 930-9882](tel:7169309882)
