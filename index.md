@@ -1,10 +1,11 @@
-<p> <table><tr><td><img src="/images/headshot.jpg" width="250" height="250" align="left "></table></tr></td></p>
+<p> <img src="/images/headshot.jpg" width="250" height="250" align="left "></p>
   <br clear="left"/>
 <br/>
 
 Link to Full CV
+<br/>
 
-#### __Table of Contents__
+#### Table of Contents
 - [Contact Me](#heading)
 - [Overview, Interests, and Objectives](#heading-1)
 - [Latest Education](#heading-2)
