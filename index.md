@@ -5,6 +5,15 @@ Link to Full CV
 
 - [Contact Me](#heading)
 - [Overview, Interests, and Objectives](#heading-1)
+- [Latest Education](#heading-2)
+- [Selected Highschool Courses](#heading-3)
+- [Some Academic Enrichment](#heading-4)
+- [Some Volunteer Work](#heading-5)
+- [Brief Tennis Bio](#heading-6)
+- [Some Projects](#heading-7)
+- [Computer Skills](#heading-6)
+- [Languages](#heading-7)
+
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
 Phone: [(716) 930-9882](tel:7169309882)
