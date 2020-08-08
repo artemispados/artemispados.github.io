@@ -114,8 +114,20 @@ Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
 
 
 ## Some Projects
-Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> , *History and Philosophy of Science course, Stanford Online Highschool*
+Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
 * This research paper, as indicated by the title, is written as support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract object exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using a Fregean manner. 
+
+Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_AWindowToTheSoulOfMr.FrederickDouglass.pdf">"A Window to the Soul of Mr. Frederick DO\ouglass"</a> <br/> *Textual Analysis and Argumentation course, Stanford Online Highschool*
+*  In this English course paper, I analyze the "Narrative of the Life of Frederick Douglass, An American Slave, Written by Himself". I discuss the mental toll that slavery takes on a person by looking into the two diﬀerent tones presented by Douglass through his sentence structure and his description by adjectives combined with a comparison of emotional responses between enslaved and free folks.
+
+Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_ADialogueOnDiscovery.pdf">"A Dialogue on Discovery"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
+* This paper is written as an exchange between two passionate chemists in the early 1700s. Using a hypothetical dialogue, I analyze what constitutes a scientiﬁc discovery and shed light on the controversy behind the theory of Phlogiston in that time period.
+
+Fall 2019 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_TheDynamicRepublic.pdf">"The Dynamic Republic"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
+* The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure.
+
+Fall 2019 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSearchOfThatWhichHasNoPart.pdf">"In Search of 'That Which Has No Part' "</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
+* This brief paper discusses the work of the Greek Mathematician Euclid, "The Father of Geometry". The problem at hand is whether the objects in Euclid’s postulates, that is, points, lines, circles, etc. reﬂect reality. I argue that Euclid’s postulates should be regarded with an instrumentalist attitude. 
 
 ## Computer Skills
 * Python
@@ -127,7 +139,3 @@ Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportO
 * English (native)
 * Greek (native)
 * French (proficient)
-
-
-
-<a href="/papers/ArtemisPados_StanfordOHS_ADialogueOnDiscovery.pdf">name</a>
