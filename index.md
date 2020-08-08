@@ -25,7 +25,7 @@ Phone: [(716) 930-9882](tel:7169309882)
 
 #### Tennis
 **Evert Tennis Academy**, *Boca Raton, FL* <br/>Fall 2017-Present
-* Training 3-5hr/day for 6 days/week
+* Training 3-5 hr/day for 6 days/week
 * Full time student-athlete
 
 
