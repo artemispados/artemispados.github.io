@@ -114,7 +114,7 @@ Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
 
 
 ## Some Projects
-Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportofMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> , *History and Philosophy of Science course, Stanford Online Highschool*
+Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> , *History and Philosophy of Science course, Stanford Online Highschool*
 * This research paper, as indicated by the title, is written as support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract object exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using a Fregean manner. 
 
 ## Computer Skills
