@@ -25,31 +25,11 @@ Phone: [(716) 930-9882](tel:7169309882)
 
 #### Tennis
 **Evert Tennis Academy**, *Boca Raton, FL* <br/>Fall 2017-Present
-* Training 3-5hr/day for 6days/week
+* Training 3-5hr/day for 6 days/week
 * Full time student-athlete
 
 
 ## Selected Highschool Courses
-
-#### Freshman Year (Fall 2018-Spring 2019)
-* **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
-  * Grade A
-* **Honors Physics**, *Stanford Online Highschool*
-  * Grade A
-
-#### Sophomore Year (Fall 2019-Spring 2020)
-* **AP Calculus BC**, *Stanford Online Highschool*
-  * Grade A and 5/5 on AP Exam
-* **History and Philosophy of Science**, *Stanford Online Highschool*
-  * Grade A
-  
-#### Junior Year (Fall 2020-Spring 2021)
-* **AP Physics C Mechanics (Fall) and Electricity and Magnetism (Spring)**, *Stanford Online Highschool*
-  * Course in progress
-* **Programming in C++**, *Stanford Online Highschool*
-  * Course in progress
-* **University course Discrete Mathematics (Fall)**, *Stanford Online Highschool*
-  * Course in progress
 
 #### Senior Year (Fall 2021-Spring 2022)
 * **AP Computer Science**, *Stanford Online Highschool*
@@ -62,6 +42,26 @@ Phone: [(716) 930-9882](tel:7169309882)
   * Course to come
 * **AP Language and Composition**, *Stanford Online Highschool*
   * Course to come
+
+#### Junior Year (Fall 2020-Spring 2021)
+* **AP Physics C Mechanics (Fall) and Electricity and Magnetism (Spring)**, *Stanford Online Highschool*
+  * Course in progress
+* **Programming in C++**, *Stanford Online Highschool*
+  * Course in progress
+* **University course Discrete Mathematics (Fall)**, *Stanford Online Highschool*
+  * Course in progress
+
+#### Sophomore Year (Fall 2019-Spring 2020)
+* **AP Calculus BC**, *Stanford Online Highschool*
+  * Grade A and 5/5 on AP Exam
+* **History and Philosophy of Science**, *Stanford Online Highschool*
+  * Grade A
+
+#### Freshman Year (Fall 2018-Spring 2019)
+* **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
+  * Grade A
+* **Honors Physics**, *Stanford Online Highschool*
+  * Grade A
   
 ## Selected Academic Enrichment
 **Harvard University Pre-College Summer School**, *Cambridge, MA*<br/>Summer 2020
@@ -87,10 +87,10 @@ Phone: [(716) 930-9882](tel:7169309882)
   
 ## Selected Volunteer Work
 **Little Me Academy High School**, *Cagayan de Oro, Philippines*<br/>Summer 2020
-* Taught 10th Grade math virtually to a high school class amidst the Coronavirus pandemic
+* Taught 10th Grade math live via Zoom to a high school class amidst the Coronavirus pandemic
 
 **Florida Atlantic University (FAU)**, *Boca Raton, FL*<br/>Summer 2020
-* Tutored underprivileged university students in Calculus 1 and 2 amidst the Coronavirus pandemic
+* Tutored underprivileged university students via Zoom in Calculus 1 and 2 amidst the Coronavirus pandemic
 
 ## Brief Tennis Bio
 2012-Present<br/> Competitive tennis in **USTA** (United States Tennis Association) and **Junior ITF** (International Tennis Federation)
