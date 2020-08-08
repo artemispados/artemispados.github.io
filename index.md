@@ -4,7 +4,7 @@
 
 Link to Full CV
 
-#### _Table of Contents_
+#### __Table of Contents__
 - [Contact Me](#heading)
 - [Overview, Interests, and Objectives](#heading-1)
 - [Latest Education](#heading-2)
