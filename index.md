@@ -1,6 +1,6 @@
 <p> <img src="/images/headshot.jpg" width="250" height="250" align="left"></p>
   <br clear="left"/>
-
+<br/>
 Link to Full CV
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
@@ -117,7 +117,7 @@ Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
 Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
 * This research paper, as indicated by the title, is written as support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract object exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using a Fregean manner. 
 
-Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_AWindowToTheSoulOfMr.FrederickDouglass.pdf">"A Window to the Soul of Mr. Frederick DO\ouglass"</a> <br/> *Textual Analysis and Argumentation course, Stanford Online Highschool*
+Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_AWindowToTheSoulOfMr.FrederickDouglass.pdf">"A Window to the Soul of Mr. Frederick Douglass"</a> <br/> *Textual Analysis and Argumentation course, Stanford Online Highschool*
 *  In this English course paper, I analyze the "Narrative of the Life of Frederick Douglass, An American Slave, Written by Himself". I discuss the mental toll that slavery takes on a person by looking into the two diﬀerent tones presented by Douglass through his sentence structure and his description by adjectives combined with a comparison of emotional responses between enslaved and free folks.
 
 Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_ADialogueOnDiscovery.pdf">"A Dialogue on Discovery"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
