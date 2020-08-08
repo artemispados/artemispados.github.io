@@ -3,8 +3,8 @@
 <br/>
 Link to Full CV
 
-- [Contact Me](#Contact Me)
-- [Overview, Interests, and Objectives](#Overview, Interests, and Objectives)
+- [Contact Me](#heading)
+- [Overview, Interests, and Objectives](#heading-1)
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
 Phone: [(716) 930-9882](tel:7169309882)
