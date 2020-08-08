@@ -15,10 +15,10 @@ Link to Statement of Purpose<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In tennis, I try to become as skilled a player as I can possibly be. Every day I train to grow my game and add a new element to my repertoire. I love this sport because it is a combination of physical, mental, technical, and tactical skills. It is an individual sport. When I step on the court, it is me and my opponent; that is all. Nobody interferes. It becomes a nobble battle between the two of us. I have myself to credit in victory, and myself to blame in defeat. I would describe my tennis game style as an all-court player. I like to structure my points by looking for a forehand after a strong serve and most of all by making my opponent uncomfortable. My biggest strength on the tennis court is my variety – from dropshots to heavy balls to serving and volleying, I feel that my touch is a dominating element of my strong doubles game.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe that my engagement with competitive sports helped me develop strong communication, time management and leadership skills as well as the ability to strategize, identify the details that make the difference in performance, set goals and execute while at the same time listen to constructive criticism and adjust accordingly. I hope I will be able to attend a highest quality academic program to study mathematics and be able to lead the university tennis team to championships.
 
-## Latest Education
+## Education
 
 #### Academic
-2018-Present (Grade 9-Present)<br/>**Stanford Online Highschool**, *Stanford, CA*
+**Stanford Online Highschool**, *Stanford, CA*2018-Present <br/>(Grade 9-Present)
 * Based out of Stanford University
 * Ranked #1 College Preparatory Private Highschool in America 2020
 * Ranked #4 Best High School for STEM in America in 2020
@@ -26,7 +26,7 @@ Link to Statement of Purpose<br/>
 [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
 
 #### Tennis
-Fall 2017-Present <br/> **Evert Tennis Academy**, *Boca Raton, FL*
+**Evert Tennis Academy**, *Boca Raton, FL* <br/>Fall 2017-Present
 * Training 3-5hr/day for 6days/week
 * Full time student-athlete
 
@@ -65,18 +65,18 @@ Fall 2017-Present <br/> **Evert Tennis Academy**, *Boca Raton, FL*
 * **AP Language and Composition**, *Stanford Online Highschool*
   * Course to come
   
-## Some Academic Enrichment
-Summer 2020<br/>**Harvard University Pre-College Summer School**, *Cambridge, MA*
+## Selected Academic Enrichment
+**Harvard University Pre-College Summer School**, *Cambridge, MA*<br/>Summer 2020
 * Introduction to Programming, Computational Science, and Data Visualization course
 * Received perfect score and outstanding evaluation by teacher
 * Class consisted of coding and data visualization using Python language
 
-Summer 2018<br/>**Summer at Stanford Univeristy**, *Stanford, CA*
+**Summer at Stanford Univeristy**, *Stanford, CA*<br/>Summer 2018
 * One-week intensive courses: 
   * Computational Thinking in Mathematics and Beyond using Wolfram language 
   * Approaching Infinity
   
-2015-2017<br/>**State University of New York at Buffalo (UB) Gifted Math Program (GMP)**, *Buffalo, NY*
+**State University of New York at Buffalo (UB) Gifted Math Program (GMP)**, *Buffalo, NY*<br/>2015-2017
 * Selected among a group of 60 students from a pool of 400 high achieving students as a 4th grader after a rigorous in-class test (usual application is as a 6th grader)
 * Received perfect score in all years of study
 * GMP 1 (2015-2016):
@@ -87,11 +87,11 @@ Summer 2018<br/>**Summer at Stanford Univeristy**, *Stanford, CA*
   * **GSE 120 LEC Logic** 
   * **GSE 121 LEC Logic and Sets**
   
-## Some Volunteer Work
-Summer 2020<br/>**Little Me Academy High School**, *Cagayan de Oro, Philippines*
+## Selected Volunteer Work
+Summer 2020<br/>**Little Me Academy High School**, *Cagayan de Oro, Philippines*<br/>Summer 2020
 * Taught 10th Grade math virtually to a high school class amidst the Coronavirus pandemic
 
-Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
+**Florida Atlantic University (FAU)**, *Boca Raton, FL*<br/>Summer 2020
 * Tutored underprivileged university students in Calculus 1 and 2 amidst the Coronavirus pandemic
 
 ## Brief Tennis Bio
@@ -118,7 +118,7 @@ Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
   * 4-1 record
 
 
-## Some Projects
+## Selected Projects
 Spring 2020 (Grade 10)<br/> <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*
 * This research paper, as indicated by the title, is written as support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract object exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using a Fregean manner. 
 
