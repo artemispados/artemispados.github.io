@@ -4,7 +4,7 @@ theme: jekyll-theme-slate
 title: Artemis Pados
 
 # Short description of your site
-description: 
+description: hi
 
 # Your name to show in the footer
 author: Artemis Pados
@@ -24,4 +24,4 @@ owner:
   #linkedin: #username
   github: github
   
-footer-col: "#F5F5F5"
+
