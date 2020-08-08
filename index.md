@@ -3,19 +3,6 @@
 <br/>
 
 Link to Full CV
-<br/>
-
-#### Table of Contents
-- [Contact Me](#heading)
-- [Overview, Interests, and Objectives](#heading-1)
-- [Latest Education](#heading-2)
-- [Selected Highschool Courses](#heading-3)
-- [Some Academic Enrichment](#heading-4)
-- [Some Volunteer Work](#heading-5)
-- [Brief Tennis Bio](#heading-6)
-- [Some Projects](#heading-7)
-- [Computer Skills](#heading-6)
-- [Languages](#heading-7)
 
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
@@ -36,6 +23,7 @@ Link to Statement of Purpose<br/>
 * Ranked #4 Best High School for STEM in America in 2020
 * Ranked #1 Best Online School in America in 2020<br/>
 [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
+
 #### Tennis
 Fall 2017-Present <br/> **Evert Tennis Academy**, *Boca Raton, FL*
 * Training 3-5hr/day for 6days/week
