@@ -14,12 +14,18 @@ Link to Statement of Purpose<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe that my engagement with competitive sports helped me develop strong communication, time management and leadership skills as well as the ability to strategize, identify the details that make the difference in performance, set goals and execute while at the same time listen to constructive criticism and adjust accordingly. I hope I will be able to attend a highest quality academic program to study mathematics and be able to lead the university tennis team to championships.
 
 ## Latest Education
+##### Academic
 2018-Present (Grade 9-Present)<br/>**Stanford Online Highschool**, *Stanford, CA*
 * Based out of Stanford University
 * Ranked #1 College Preparatory Private Highschool in America 2020
 * Ranked #4 Best High School for STEM in America in 2020
 * Ranked #1 Best Online School in America in 2020<br/>
 [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
+##### Tennis
+Fall 2017-Present <br/> **Evert Tennis Academy**, *Boca Raton, FL*
+* Training 3-5hr/day for 6days/week
+* Full time student-athlete
+
 
 ## Selected Highschool Courses
 ##### Freshman Year (Fall 2018-Spring 2019)
@@ -54,12 +60,67 @@ Link to Statement of Purpose<br/>
 * **AP Language and Composition**, *Stanford Online Highschool*
   * Course to come
   
-## Academic Enrichment
+## Some Academic Enrichment
 Summer 2020<br/>**Harvard University Pre-College Summer School**, *Cambridge, MA*
 * Introduction to Programming, Computational Science, and Data Visualization course
 * Received perfect score and outstanding evaluation by teacher
 * Class consisted of coding and data visualization using Python language
 
+Summer 2018<br/>**Summer at Stanford Univeristy**, *Stanford, CA*
+* One-week intensive courses: 
+  * Computational Thinking in Mathematics and Beyond using Wolfram language 
+  * Approaching Infinity
+  
+2015-2017<br/>**State University of New York at Buffalo (UB) Gifted Math Program (GMP)**, *Buffalo, NY*
+* Selected among a group of 60 students from a pool of 400 high achieving students as a 4th grader after a rigorous in-class test (usual application is as a 6th grader)
+* Received perfect score in all years of study
+* GMP 1 (2015-2016):
+  *  Advanced Algebra, Geometry, Probability
+ * GMP 2 (2016-2017): 
+  * Set theory, Basic Number theory, Groups, Relational Systems, Logic, and Proofs
+* Received University credit for two college-level mathematics courses:
+  * **GSE 120 LEC Logic** 
+  * **GSE 121 LEC Logic and Sets**
+  
+## Some Volunteer Work
+Summer 2020<br/>**Little Me Academy High School**, *Cagayan de Oro, Philippines*
+* Taught 10th Grade math virtually to a high school class amidst the Coronavirus pandemic
+
+Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
+* Tutored underprivileged university students in Calculus 1 and 2 amidst the Coronavirus pandemic
+
+## Brief Tennis Bio
+2012-Present<br/> Competitive tennis in **USTA** (United States Tennis Association) and **Junior ITF** (International Tennis Federation)
+##### ITF Titles
+* Nov 2019 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
+* Nov 2018 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
+* Oct 2018 **ITF Doubles Champion**, *Emmasted Curacao Open*
+##### Other ITF
+* Nov 2019 **ITF Doubles Finalist**, *Naussau, Bahamas*
+* Nov 2019 **ITF Doubles Finalist, Singles Semifinalist**, *Basseterre, St. Kitts and Nevis*
+* July 2019 **ITF Doubles Finalist, Singles Quarterfinalist**, *Emmasted Curacao Open*
+* Apr 2019 **ITF Doubles Finalist**, *Le Diamant Martinique*
+* Mar 2019 **ITF Doubles Finalist**, *Bayamon, Puerto Rico*
+##### USTA
+* July 2019 **USTA Zone Team Championships**, *Oklahoma City, OK*
+  * When living in Delray Beach, FL was selected to represent the USTA Florida section (one of the most competitive sections in the US) to play position #1 in a team competition against other sections throughout the United States
+* May 2019 **"Bobby Curtis" Doubles Girls 16s Florida State Championships, Finalist**, *Orlando, FL*
+* Feb 2019 **USTA Florida L5 Girls 16s Championships, Singles Champion**, *Altamonte Springs, FL*
+* July 2018 **USTA Zone Team Championships**, *Arlington, TX*
+  * When living in Delray Beach, FL was selected to represent the USTA Florida section (one of the most competitive sections in the US) to play position #1 in a team competition against other sections throughout the United States
+  * 4-1 record
+
+
+## Computer Skills
+* Python
+* C++
+* Wolfram Language
+* LaTeX
+
+## Languages
+* English (native)
+* Greek (native)
+* French (proficient)
 
 
 
