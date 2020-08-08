@@ -14,33 +14,33 @@ Link to Statement of Purpose<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe that my engagement with competitive sports helped me develop strong communication, time management and leadership skills as well as the ability to strategize, identify the details that make the difference in performance, set goals and execute while at the same time listen to constructive criticism and adjust accordingly. I hope I will be able to attend a highest quality academic program to study mathematics and be able to lead the university tennis team to championships.
 
 ## Latest Education
-##### Academic
+#### Academic
 2018-Present (Grade 9-Present)<br/>**Stanford Online Highschool**, *Stanford, CA*
 * Based out of Stanford University
 * Ranked #1 College Preparatory Private Highschool in America 2020
 * Ranked #4 Best High School for STEM in America in 2020
 * Ranked #1 Best Online School in America in 2020<br/>
 [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
-##### Tennis
+#### Tennis
 Fall 2017-Present <br/> **Evert Tennis Academy**, *Boca Raton, FL*
 * Training 3-5hr/day for 6days/week
 * Full time student-athlete
 
 
 ## Selected Highschool Courses
-##### Freshman Year (Fall 2018-Spring 2019)
+#### Freshman Year (Fall 2018-Spring 2019)
 * **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
   * Grade A
 * **Honors Physics**, *Stanford Online Highschool*
   * Grade A
 
-##### Sophomore Year (Fall 2019-Spring 2020)
+#### Sophomore Year (Fall 2019-Spring 2020)
 * **AP Calculus BC**, *Stanford Online Highschool*
   * Grade A and 5/5 on AP Exam
 * **History and Philosophy of Science**, *Stanford Online Highschool*
   * Grade A
   
-##### Junior Year (Fall 2020-Spring 2021)
+#### Junior Year (Fall 2020-Spring 2021)
 * **AP Physics C Mechanics (Fall) and Electricity and Magnetism (Spring)**, *Stanford Online Highschool*
   * Course in progress
 * **Programming in C++**, *Stanford Online Highschool*
@@ -48,7 +48,7 @@ Fall 2017-Present <br/> **Evert Tennis Academy**, *Boca Raton, FL*
 * **University course Discrete Mathematics (Fall)**, *Stanford Online Highschool*
   * Course in progress
 
-##### Senior Year (Fall 2021-Spring 2022)
+#### Senior Year (Fall 2021-Spring 2022)
 * **AP Computer Science**, *Stanford Online Highschool*
   * Course to come
 * **AP Unites States History**, *Stanford Online Highschool*
@@ -91,17 +91,19 @@ Summer 2020<br/>**Florida Atlantic University (FAU)**, *Boca Raton, FL*
 
 ## Brief Tennis Bio
 2012-Present<br/> Competitive tennis in **USTA** (United States Tennis Association) and **Junior ITF** (International Tennis Federation)
-##### ITF Titles
+#### ITF Titles
 * Nov 2019 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
 * Nov 2018 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
 * Oct 2018 **ITF Doubles Champion**, *Emmasted Curacao Open*
-##### Other ITF
+
+#### Other ITF
 * Nov 2019 **ITF Doubles Finalist**, *Naussau, Bahamas*
 * Nov 2019 **ITF Doubles Finalist, Singles Semifinalist**, *Basseterre, St. Kitts and Nevis*
 * July 2019 **ITF Doubles Finalist, Singles Quarterfinalist**, *Emmasted Curacao Open*
 * Apr 2019 **ITF Doubles Finalist**, *Le Diamant Martinique*
 * Mar 2019 **ITF Doubles Finalist**, *Bayamon, Puerto Rico*
-##### USTA
+
+#### USTA
 * July 2019 **USTA Zone Team Championships**, *Oklahoma City, OK*
   * When living in Delray Beach, FL was selected to represent the USTA Florida section (one of the most competitive sections in the US) to play position #1 in a team competition against other sections throughout the United States
 * May 2019 **"Bobby Curtis" Doubles Girls 16s Florida State Championships, Finalist**, *Orlando, FL*
