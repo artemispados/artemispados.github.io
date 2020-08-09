@@ -17,11 +17,11 @@ Phone: [(716) 930-9882](tel:7169309882)
 
 #### Academic
 **Stanford Online Highschool**, *Stanford, CA*<br/>2018-Present (Grade 9-Present)
-  * Based out of Stanford University
-  * Ranked #1 College Preparatory Private Highschool in America 2020
-  * Ranked #4 Best High School for STEM in America in 2020
-  * Ranked #1 Best Online School in America in 2020<br/>
-  [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
+* Based out of Stanford University
+* Ranked #1 College Preparatory Private Highschool in America 2020
+* Ranked #4 Best High School for STEM in America in 2020
+* Ranked #1 Best Online School in America in 2020<br/>
+ [Stanford Online Highschool - Niche](https://www.niche.com/k12/stanford-online-high-school-redwood-city-ca/rankings/)
 
 #### Tennis
 **Evert Tennis Academy**, *Boca Raton, FL* <br/>Fall 2017-Present
