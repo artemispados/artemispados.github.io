@@ -99,7 +99,7 @@ Phone: [(716) 930-9882](tel:7169309882)
 * Nov 2018 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
 * Oct 2018 **ITF Doubles Champion**, *Emmasted Curacao Open*
 
-#### Other ITF
+#### Other ITF Results
 * Nov 2019 **ITF Doubles Finalist**, *Naussau, Bahamas*
 * Nov 2019 **ITF Doubles Finalist, Singles Semifinalist**, *Basseterre, St. Kitts and Nevis*
 * July 2019 **ITF Doubles Finalist, Singles Quarterfinalist**, *Emmasted Curacao Open*
