@@ -53,29 +53,29 @@ Phone: [(716) 930-9882](tel:7169309882)
 
 #### Sophomore Year (Fall 2019-Spring 2020)
 * **AP Calculus BC**, *Stanford Online Highschool*
-  * Grade A and 5/5 on AP Exam
+  * Received grade A and 5/5 on AP Exam
 * **History and Philosophy of Science**, *Stanford Online Highschool*
-  * Grade A
+  * Received grade A
 
 #### Freshman Year (Fall 2018-Spring 2019)
 * **Honors Precalculus and Trigonometry**, *Stanford Online Highschool*
-  * Grade A
+  * Received grade A
 * **Honors Physics**, *Stanford Online Highschool*
-  * Grade A
+  * Received grade A
   
 ## Selected Academic Enrichment
 **Harvard University Pre-College Summer School**, *Cambridge, MA*<br/>Summer 2020
-* Introduction to Programming, Computational Science, and Data Visualization course
+* **Introduction to Programming, Computational Science, and Data Visualization course**
 * Received perfect score and outstanding evaluation by teacher
 * Class consisted of coding and data visualization using Python language
 
 **Summer at Stanford Univeristy**, *Stanford, CA*<br/>Summer 2018
 * One-week intensive courses: 
-  * Computational Thinking in Mathematics and Beyond using Wolfram language 
-  * Approaching Infinity
+  * **Computational Thinking in Mathematics and Beyond using Wolfram language** 
+  * **Approaching Infinity**
   
 **State University of New York at Buffalo (UB) Gifted Math Program (GMP)**, *Buffalo, NY*<br/>2015-2017
-* Selected among a group of 60 students from a pool of 400 high achieving students as a 4th grader after a rigorous in-class test (usual application is as a 6th grader)
+* Selected among a group of 60 students from a pool of 400 high achieving students after a rigorous 4 hr in-class test (selected as 4th grader while most applicants were graders)
 * Received perfect score in all years of study
 * GMP 1 (2015-2016):
   *  Advanced Algebra, Geometry, Probability
@@ -87,31 +87,31 @@ Phone: [(716) 930-9882](tel:7169309882)
   
 ## Selected Volunteer Work
 **Little Me Academy High School**, *Cagayan de Oro, Philippines*<br/>Summer 2020
-* Taught 10th Grade math live via Zoom to a high school class amidst the Coronavirus pandemic
+* Taught 10th Grade math live via Zoom to a high school class amidst the coronavirus pandemic
 
 **Florida Atlantic University (FAU)**, *Boca Raton, FL*<br/>Summer 2020
-* Tutored underprivileged university students via Zoom in Calculus 1 and 2 amidst the Coronavirus pandemic
+* Tutored underprivileged university students via Zoom in Calculus 1 and 2 amidst the coronavirus pandemic
 
 ## Brief Tennis Bio
 2012-Present<br/> Competitive tennis in **USTA** (United States Tennis Association) and **Junior ITF** (International Tennis Federation)
 #### ITF Titles
-* Nov 2019 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
-* Nov 2018 **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
-* Oct 2018 **ITF Doubles Champion**, *Emmasted Curacao Open*
+* Nov 2019, **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
+* Nov 2018, **ITF Doubles Champion**, *St. Johns Antigua and Barbuda Cup*
+* Oct 2018, **ITF Doubles Champion**, *Emmasted Curacao Open*
 
 #### Other ITF Results
-* Nov 2019 **ITF Doubles Finalist**, *Naussau, Bahamas*
-* Nov 2019 **ITF Doubles Finalist, Singles Semifinalist**, *Basseterre, St. Kitts and Nevis*
-* July 2019 **ITF Doubles Finalist, Singles Quarterfinalist**, *Emmasted Curacao Open*
-* Apr 2019 **ITF Doubles Finalist**, *Le Diamant Martinique*
-* Mar 2019 **ITF Doubles Finalist**, *Bayamon, Puerto Rico*
+* Nov 2019, **ITF Doubles Finalist**, *Naussau, Bahamas*
+* Nov 2019, **ITF Doubles Finalist, Singles Semifinalist**, *Basseterre, St. Kitts and Nevis*
+* July 2019, **ITF Doubles Finalist, Singles Quarterfinalist**, *Emmasted Curacao Open*
+* Apr 2019, **ITF Doubles Finalist**, *Le Diamant Martinique*
+* Mar 2019, **ITF Doubles Finalist**, *Bayamon, Puerto Rico*
 
 #### USTA
-* July 2019 **USTA Zone Team Championships**, *Oklahoma City, OK*
+* July 2019, **USTA Zone Team Championships**, *Oklahoma City, OK*
   * When living in Delray Beach, FL was selected to represent the USTA Florida section (one of the most competitive sections in the US) to play position #1 in a team competition against other sections throughout the United States
-* May 2019 **"Bobby Curtis" Doubles Girls 16s Florida State Championships, Finalist**, *Orlando, FL*
-* Feb 2019 **USTA Florida L5 Girls 16s Championships, Singles Champion**, *Altamonte Springs, FL*
-* July 2018 **USTA Zone Team Championships**, *Arlington, TX*
+* May 2019, **Finalist, "Bobby Curtis" Doubles Girls 16s Florida State Championships**, *Orlando, FL*
+* Feb 2019, **Singles Champion, USTA Florida L5 Girls 16s Championships**, *Altamonte Springs, FL*
+* July 2018, **USTA Zone Team Championships**, *Arlington, TX*
   * When living in Delray Beach, FL was selected to represent the USTA Florida section (one of the most competitive sections in the US) to play position #1 in a team competition against other sections throughout the United States
   * 4-1 record
 
