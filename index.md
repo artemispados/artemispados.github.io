@@ -4,7 +4,7 @@
 
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
-Phone: [(716) 930-9882](tel:7169309882)
+Phone: [(716) 930-9882](tel:7169309882)\
 LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 ## Overview, Interests, and Objectives
