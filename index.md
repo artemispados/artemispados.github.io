@@ -1,6 +1,6 @@
 <p> <img src="/images/headshot.jpg" width="250" height="250" align="left "> <img src="/images/me.1.jpg" width="200" height="250" align="right "></p>
   <br clear="left"/>
-<a href="/papers/CV_noinfo.pdf">Click for Full CV</a>
+<a href="/papers/ArtemisPados_CV_website.pdf">Click for Full CV</a>
 
 ## Contact Me
 Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
