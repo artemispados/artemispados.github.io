@@ -3,8 +3,7 @@
 <a href="/papers/ArtemisPados_CV_website.pdf">Click for Full CV</a>
 
 ## Contact Me
-Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)\
-Phone: [(716) 930-9882](tel:7169309882)\
+Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)
 LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 ## Overview, Interests, and Objectives
