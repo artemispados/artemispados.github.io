@@ -7,7 +7,6 @@ Email: [artemispados@gmail.com](mailto:artemispados@gmail.com?)
 LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 ## Overview, Interests, and Objectives
-...Link to Statement of Purpose Pending...<br/>
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My objective is to attend a University with a distinguished program in STEM and be a member of their women’s tennis team. This will allow me to pursue my passion for excellence in mathematics, sciences, and sports. As a student and athlete, I love mathematics and tennis with the same intensity. As I become more mature academically, I realize that what I love is building, step by step, an abstract mathematical world from fundamental principles. I aspire to study among the best and excel in whatever I choose to pursue. I hope to work with the ﬁnest mathematicians and scientists, to make new discoveries and contribute to the technological advancements of our society. After my undergraduate studies, I will move on to work toward a Ph.D. degree in Mathematics, Computer Science, or Engineering.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In tennis, I try to become as skilled a player as I can possibly be. Every day I train to grow my game and add a new element to my skill set. I love this sport because it is a combination of physical, mental, technical, and tactical skills. It is an individual sport. When I step on the court, it is me and my opponent; that is all. Nobody interferes. It becomes a nobble battle between the two of us. I have myself to credit in victory, and myself to blame in defeat. I would describe my tennis game style as an all-court player. I like to structure my points by looking for a forehand after a strong serve and most of all by making my opponent uncomfortable. My biggest strength on the tennis court is my variety – from dropshots to heavy balls to serving and volleying, I feel that my touch is a dominating element of my strong doubles game.<br/>
@@ -117,6 +116,9 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 
 ## Selected Papers
+<a href="/papers/ArtemisPados_IYRC_DynamicRepublic">"The Dynamic Republic"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Fall 2019 (Grade 10)
+* The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure and I explain how these flaws may be rectified.
+
 <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool)*<br/>Spring 2020 (Grade 10)
 * I proposed the topic for this research paper to be, as indicated by the title, a support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract objects exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using Fregean techniques.
 
@@ -125,9 +127,6 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 <a href="/papers/ArtemisPados_StanfordOHS_ADialogueOnDiscovery.pdf">"A Dialogue on Discovery"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Spring 2020 (Grade 10)
 * This paper is written as an exchange between two passionate chemists in the early 1700s. Using a hypothetical dialogue, I analyze what constitutes a scientiﬁc discovery and shed light on the controversy behind the theory of Phlogiston in that time period.
-
-<a href="/papers/ArtemisPados_StanfordOHS_TheDynamicRepublic.pdf">"The Dynamic Republic"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Fall 2019 (Grade 10)
-* The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure and I explain how these flaws may be rectified.
 
 <a href="/papers/ArtemisPados_StanfordOHS_InSearchOfThatWhichHasNoPart.pdf">"In Search of 'That Which Has No Part' "</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Fall 2019 (Grade 10)
 * This brief paper discusses the work of the Greek Mathematician Euclid, "The Father of Geometry". The problem at hand is whether the objects in Euclid’s postulates, that is, points, lines, circles, etc. reﬂect reality. I argue that Euclid’s postulates should be approached with an instrumentalist attitude. 
