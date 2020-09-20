@@ -27,6 +27,17 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 * Training 3-5 hr/day for 6 days/week
 * Full time student-athlete
 
+## Publications
+[1] Artemis Pados, "The Dynamic Republic", in *Proceedings 3rd Harvard-Japan InternationalYouth Researcher’s Conference (IYRC)*, Sept. 19-20, 2020, to appear.
+* <a href="/papers/ArtemisPados_IYRC_DynamicRepublic.pdf">"The Dynamic Republic"</a>
+* The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure and I explain how these flaws may be rectified.
+
+[2] Artemis Pados, Heather Walker-Dale (mentor), "In Support of Mathematical Platonism", *Journal of Student Research (JOFSR)*, in preparation. JOFSR is an academic, multidis-ciplinary, and faculty-reviewed student journal (ISSN: 2167-1907) devoted to the rapiddissemination of current research.
+* <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a>
+* I proposed the topic for this research paper to be, as indicated by the title, a support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract objects exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using Fregean techniques.
+
+## Conference Presentations
+[1] Artemis Pados, "The Dynamic Republic", in *Proceedings 3rd Harvard-Japan InternationalYouth Researcher’s Conference (IYRC)*, Sept. 19-21, 2020.
 
 ## Selected Highschool Courses
 
@@ -116,11 +127,6 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 
 ## Selected Papers
-<a href="/papers/ArtemisPados_IYRC_DynamicRepublic.pdf">"The Dynamic Republic"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Fall 2019 (Grade 10)
-* The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure and I explain how these flaws may be rectified.
-
-<a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool)*<br/>Spring 2020 (Grade 10)
-* I proposed the topic for this research paper to be, as indicated by the title, a support to a Platonist view of Mathematics. In constructing my argument that this view is most appropriate, I deﬁne Mathematical Platonism against its close alternatives and analyze the underlying theses of its deﬁnition. I explore the assumptions, foundations, and implications of mathematics, how they aﬀect one’s larger metaphysics, and attempt to address the age-old question of whether abstract objects exist. I investigate the views that counter Platonism, canvassing Intuitionism as it relates to the discussion, and ﬁnally attempt to refute the counterclaims using Fregean techniques.
 
 <a href="/papers/ArtemisPados_StanfordOHS_AWindowToTheSoulOfMr.FrederickDouglass.pdf">"A Window to the Soul of Mr. Frederick Douglass"</a> <br/> *Textual Analysis and Argumentation course, Stanford Online Highschool*<br/>Spring 2020 (Grade 10)
 *  In this English course paper, I analyze the "Narrative of the Life of Frederick Douglass, An American Slave, Written by Himself". I discuss the mental toll that slavery takes on a person by looking into the two diﬀerent tones presented by Douglass through his sentence structure and his description by adjectives combined with a comparison of emotional responses between enslaved and free folks.
