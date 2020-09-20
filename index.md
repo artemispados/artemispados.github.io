@@ -116,7 +116,7 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 
 ## Selected Papers
-<a href="/papers/ArtemisPados_IYRC_DynamicRepublic">"The Dynamic Republic"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Fall 2019 (Grade 10)
+<a href="/papers/ArtemisPados_IYRC_DynamicRepublic.pdf">"The Dynamic Republic"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool*<br/>Fall 2019 (Grade 10)
 * The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure and I explain how these flaws may be rectified.
 
 <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a> <br/> *History and Philosophy of Science course, Stanford Online Highschool)*<br/>Spring 2020 (Grade 10)
