@@ -83,7 +83,7 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
   * **"Approaching Infinity"**
   
 **State University of New York at Buffalo (UB) Gifted Math Program (GMP)**, *Buffalo, NY*<br/>2015-2017
-* Selected among a group of 60 students from a pool of 400 highest achieving students after a rigorous 4 hr in-class test (selected as 4th grader while most applicants were graders)
+* Selected among a group of 60 students from a pool of 400 highest achieving students after a rigorous 4 hr in-class test (selected as 4th grader while most applicants were 6th graders)
 * Received perfect score in all years of study
 * GMP 1 (2015-2016):
   *  Advanced Algebra, Geometry, Probability
