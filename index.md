@@ -56,7 +56,7 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
   * Course in progress
 * **Programming in C++**, *Stanford Online Highschool*
   * Course in progress
-* **Discrete Mathematics University course (Fall)**, *Stanford Online Highschool*
+* **Discrete Mathematics Proof-Based University course (Fall)**, *Stanford Online Highschool*
   * Course in progress
 
 #### Sophomore Year (Fall 2019-Spring 2020)
