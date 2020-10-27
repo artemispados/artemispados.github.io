@@ -15,7 +15,7 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 ## Education
 
 #### Academic
-**Stanford Online Highschool**, *Stanford, CA*, **(GPA: 4.38 weighted)**<br/>2018-Present (Grade 9-Present)
+**Stanford Online Highschool**, *Stanford, CA*, **(GPA: 4.38)**<br/>2018-Present (Grade 9-Present)
 * Based out of Stanford University
 * Ranked #1 College Preparatory Private Highschool in America 2020
 * Ranked #4 Best High School for STEM in America in 2020
