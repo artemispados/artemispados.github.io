@@ -28,7 +28,7 @@ LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 * Full time student-athlete
 
 ## Publications
-[1] Artemis Pados, <a href="/papers/ArtemisPados_IYRC_DynamicRepublic.pdf">"The Dynamic Republic"</a>, in *Proceedings 3rd Harvard-Japan InternationalYouth Researcher’s Conference (IYRC)*, Sept. 19-20, 2020, to appear.
+[1] Artemis Pados, <a href="/papers/ArtemisPados_IYRC_DynamicRepublic.pdf">"The Dynamic Republic"</a>, in *Proceedings 3rd Harvard-Japan InternationalYouth Researcher’s Conference (IYRC)*, Sept. 19-20, 2020, pp. 162-164.
 * The ancient Greek philosopher Plato writes in Book IV of "The Republic" that there are three parts to the human soul – “appetite, spirit, and wisdom”- and these categories directly translate to how an ideal state/society should be run. In this reseacrh paper, I argue that there are two main ﬂaws with Plato’s ideal city structure and I explain how these flaws may be rectified.
 
 [2] Artemis Pados, Heather Walker-Dale (mentor), <a href="/papers/ArtemisPados_StanfordOHS_InSupportOfMathematicalPlatonism.pdf">"In Support of Mathematical Platonism"</a>, *Journal of Student Research (JOFSR)*, in preparation. JOFSR is an academic, multidis-ciplinary, and faculty-reviewed student journal (ISSN: 2167-1907) devoted to the rapiddissemination of current research.
