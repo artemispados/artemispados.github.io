@@ -9,7 +9,7 @@ Email: [apados@mit.edu](mailto:apados@mit.edu?)
 LinkedIn: [Artemis Pados](https://www.linkedin.com/in/artemis-pados-2178921b4/)
 
 ## Career Objectives
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a senior in EECS at MIT. I will pursue a Ph.D. degree in Computer Science/Electrical Engineering/Mathematics with emphasis in machine learning and data science and attempt an academic career thereafter.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am an MEng in EECS at MIT after having recently completed my bachelor's in EECS at MIT. I will pursue a Ph.D. degree in Computer Science/Electrical Engineering/Mathematics with emphasis in machine learning and data science and attempt an academic career thereafter.
 <br/>
 
 
